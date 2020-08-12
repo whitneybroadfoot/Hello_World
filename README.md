@@ -15,3 +15,4 @@ such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 ```
 
 "Education is not the learning of facts, but the training of the mind to think."
+Albert Einstein

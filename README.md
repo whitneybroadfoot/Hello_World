@@ -12,3 +12,6 @@ Let's get coding!
 such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 * The <h1> element defines a large heading
 * The <p> element defines a paragraph
+```
+
+"Education is not the learning of facts, but the training of the mind to think."

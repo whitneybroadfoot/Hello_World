@@ -14,4 +14,4 @@ such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 * The <p> element defines a paragraph
 ```
 
-"Education is not the learning of facts, but the training of the mind to think." *Albert Einstein
+"Education is not the learning of facts, but the training of the mind to think."  *Albert Einstein*
